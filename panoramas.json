@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "mars",
-      "tour_id": "1"
+      "tour_id": 1,
       "url": "https://dl.dropboxusercontent.com/s/1o159e9flqgkbp2/pano_5.jpg"
     },
     {
