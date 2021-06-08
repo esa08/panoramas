@@ -1,0 +1,29 @@
+{
+  "tours": [
+    {
+      "id": 1,
+      "name": "Santiago bernabeu",
+      "category": "hotel"
+    },
+    {
+      "id": 2,
+      "name": "Gelora bung karno",
+      "category": "hotel"
+    },
+    {
+      "id": 3,
+      "name": "Alianz stadium",
+      "category": "hotel"
+    },
+    {
+      "id": 4,
+      "name": "Marsane quite",
+      "category": "hotel"
+    },
+    {
+      "id": 5,
+      "name": "Maggie house",
+      "category": "hotel"
+    }
+  ]
+}
