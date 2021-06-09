@@ -2,27 +2,32 @@
 	"tours": [{
 			"id": 1,
 			"name": "Santiago bernabeu",
-			"category": "hotel"
+			"category": "hotel",
+			"source": "https://dl.dropboxusercontent.com/s/1o159e9flqgkbp2/pano_1.jpg"
 		},
 		{
 			"id": 2,
 			"name": "Gelora bung karno",
-			"category": "hotel"
+			"category": "hotel",
+			"source": "https://dl.dropboxusercontent.com/s/1o159e9flqgkbp2/pano_2.jpg"
 		},
 		{
 			"id": 3,
 			"name": "Alianz stadium",
-			"category": "hotel"
+			"category": "hotel",
+			"source": "https://dl.dropboxusercontent.com/s/1o159e9flqgkbp2/pano_3.jpg"
 		},
 		{
 			"id": 4,
 			"name": "Marsane quite",
-			"category": "hotel"
+			"category": "hotel",
+			"source": "https://dl.dropboxusercontent.com/s/1o159e9flqgkbp2/pano_1.jpg"
 		},
 		{
 			"id": 5,
 			"name": "Maggie house",
-			"category": "hotel"
+			"category": "hotel",
+			"source": "https://dl.dropboxusercontent.com/s/1o159e9flqgkbp2/pano_1.jpg"
 		}
 	],
 
