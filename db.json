@@ -1,5 +1,5 @@
 {
 	"status_code": 200,
-	"message": "Get tour successfully"
+	"message": "Get tour successfully",
     	"data": "ini adalah tour"
 }
